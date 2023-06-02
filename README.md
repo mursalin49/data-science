@@ -20,4 +20,17 @@ Each area  / domain is represented as a “metro line”, with the stations depi
 PS: I did not want to impose the use of any commercial tools in this plan. I have based this plan on tools/libraries available as open source for the most part. If you have access to a commercial software such as IBM SPSS or SAS Enterprise Miner, by all means go for it. The plan still holds good.
 
 PS: I originally wanted to create an interactive visualization using D3.js or InfoVis. But wanted to get this out quickly. Maybe I will do an interactive map in the next iteration.
+I just found this data science skills roadmap, drew by Swami Chandrasekaran on his cool blog.
 
+roadmap-picture
+
+Jobs linked to data science are becoming more and more popular. A bunch of tutorials could easily complete this roadmap, helping whoever wants to start learning stuff about data science.
+
+For the moment, a lot is got on wikipedia (except for codes, always handmade). Any help's thus welcome!
+
+Rules
+Feel free to fork this repository and pull requests.
+Always comment your code.
+Please respect topology for filenames.
+There's one README for each directory.
+Also, could be great to share useful links or resources in README files.
